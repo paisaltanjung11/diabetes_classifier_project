@@ -1,0 +1,5 @@
+pip install pandas scikit-learn matplotlib seaborn
+
+@@
+email: paisaltanjung11@gmail.com
+github: https://github.com/paisaltanjung11
