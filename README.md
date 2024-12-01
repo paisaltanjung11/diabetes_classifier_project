@@ -12,5 +12,3 @@ This repository contains a machine learning application built with **Streamlit**
 
 ---
 
-## Dataset
-The dataset is sourced from the [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database). It contains health metrics for females of at least 21 years of age of Pima Indian heritage.
