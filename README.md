@@ -10,5 +10,4 @@ This repository contains a machine learning application built with **Streamlit**
 - **Visualization:** Provides scatter plot comparisons of user input against dataset trends.
 - **Streamlit Deployment:** Accessible via a web interface.
 
----
 
